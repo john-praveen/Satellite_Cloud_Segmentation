@@ -48,8 +48,3 @@ Unlike standard RGB images, these channels are provided separately and require p
 
 ---
 
-
-
-
-## Project Structure
-
